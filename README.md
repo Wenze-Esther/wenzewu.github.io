@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wenze WU (Esther)</h1>
 <h3 align="center">An interdisciplinary researcher exploring urban science and human-environment interactions with GeoAI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasper0122&label=Profile%20views&color=0e75b6&style=flat" alt="jasper0122" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wenzewu&label=Profile%20views&color=0e75b6&style=flat" alt="wenzewu" /> </p>
 
-- 🔭 I’m currently a Ph.D. student in Geographic Information Systems at [Texas A&M University](https://www.tamu.edu/)
+- 🔭 
 
-- 👨‍💻 All of my projects are available at [https://jasper0122.github.io/](https://jasper0122.github.io/)
+- 👨‍💻 All of my projects are available at [)
 
 - 📫 How to reach me **wenzewu2-c@my.cityu.edu.hk**
 
